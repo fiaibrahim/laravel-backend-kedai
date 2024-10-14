@@ -22,7 +22,7 @@
                     </li>
                 </ul>
             </li>
-            <li class="menu-header">Starter</li>
+            {{-- <li class="menu-header">Starter</li>
             <li class="nav-item dropdown {{ $type_menu === 'layout' ? 'active' : '' }}">
                 <a href="#"
                     class="nav-link has-dropdown"
@@ -391,4 +391,4 @@
             </a>
         </div>
     </aside>
-</div>
+</div> --}}
