@@ -31,7 +31,7 @@
                         <div class="card profile-widget">
                             <div class="profile-widget-header">
                                 <img alt="image"
-                                    src="{{ asset('img/avatar/fiaa.jpg') }}"
+                                    src="{{ asset('img/avatar/ibrahim.jpg') }}"
                                     class="rounded-circle profile-widget-picture">
                                 <div class="profile-widget-items">
                                     <div class="profile-widget-item">
